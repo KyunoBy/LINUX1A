@@ -1,0 +1,13 @@
+Pasos para usar virtual box:
+1. descargar Virtual box y Ubuntu (cualquier version de ambas sirve)
+2. Una vez ambas esten descargadas abrir virtual box, apretar la opcion de nuevo y en el apartado llamado ISO Image seleccionar el Ubuntu descargado
+3. seleccionado eso ahora toca dar las especificaciones de harware y hard disk
+4. una vez hecho todo esto solo tienes que espearar a que la maquina virtual inicie para trabajar en ella
+
+Pasos para usar Visual Studio Code
+(Antes de descargar cualquier cosa debes de tener una cuenta de GitHub creada)
+1. Descargar Visual Studio Code y Git (no confundir con GitHub)
+2. cuando las dos esten instaladas (de preferencia instalar de primeras Git) abrir Visual Studio Code
+3. si todo salio bien las dos opciones que te salen son "open folder" y "clone repository, seleccionar la segunda opcion y vincular tu cuante de GitHub a Virtual Studio Code
+4. ahora desde GitHub crar un nuevo "repository" desde tu perfil y ponerle cualquier nombre (de preferencia que sea acorde al proyecto)
+5. ahora si podras clonar el repository a Virtual Studio Code para poder trabajar y guardar cambios desde ahí
