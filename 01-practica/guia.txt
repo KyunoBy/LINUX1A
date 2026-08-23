@@ -11,3 +11,7 @@ Pasos para usar Visual Studio Code
 3. si todo salio bien las dos opciones que te salen son "open folder" y "clone repository, seleccionar la segunda opcion y vincular tu cuante de GitHub a Virtual Studio Code
 4. ahora desde GitHub crar un nuevo "repository" desde tu perfil y ponerle cualquier nombre (de preferencia que sea acorde al proyecto)
 5. ahora si podras clonar el repository a Virtual Studio Code para poder trabajar y guardar cambios desde ahí
+
+solucion para el error al usar el comit:
+para solucionar esto solo tines que abrir una nueva termonar y poner los siguentes dos codigos
+git config --global user.name "tu nombre" y git config --global user.email "tu@correo.com"
